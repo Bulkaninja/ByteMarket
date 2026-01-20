@@ -224,10 +224,7 @@ body {
   box-shadow: 0 0 12px rgba(0, 170, 255, 0.25);
 }
 
-.footer-discord:hover {
-  background: rgba(0, 170, 255, 0.2);
-  box-shadow: 0 0 18px rgba(0, 170, 255, 0.5);
-  color: #d9eaff;
+.<a href="https://discord.com/users/nex09606" class="footer-discord">Discord: nex09606</a>
 }
 
 /* RESPONSYWNOŚĆ */
@@ -242,3 +239,4 @@ body {
     padding: 14px 20px;
   }
 }
+
