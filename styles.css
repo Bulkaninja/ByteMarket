@@ -210,6 +210,24 @@ body {
   color: #9acaff;
   display: flex;
   gap: 14px;
+  align-items: center;
+}
+
+.footer-discord {
+  color: #9acaff;
+  text-decoration: none;
+  font-weight: 600;
+  border: 1px solid rgba(0, 170, 255, 0.4);
+  padding: 6px 14px;
+  border-radius: 999px;
+  transition: 0.2s;
+  box-shadow: 0 0 12px rgba(0, 170, 255, 0.25);
+}
+
+.footer-discord:hover {
+  background: rgba(0, 170, 255, 0.2);
+  box-shadow: 0 0 18px rgba(0, 170, 255, 0.5);
+  color: #d9eaff;
 }
 
 /* RESPONSYWNOŚĆ */
